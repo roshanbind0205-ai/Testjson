@@ -1,5 +1,172 @@
-{
-    "Name": "Roshan",
-    "Age": 20,
-    "course": "BCA"
-}
+[
+  {
+    "question": "1. In the film 'Mr India', Mogambo was looking for a formula to enable what?",
+    "options": [
+      "A. Immortality",
+      "B. Inanimation",
+      "C. Invisibility",
+      "D. Intelligence"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "2. Which is the National Animal of India?",
+    "options": [
+      "A. Lion",
+      "B. Tiger",
+      "C. Elephant",
+      "D. Leopard"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "3. Which planet is known as the Red Planet?",
+    "options": [
+      "A. Earth",
+      "B. Mars",
+      "C. Jupiter",
+      "D. Venus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "4. HTML stands for?",
+    "options": [
+      "A. Hyper Text Markup Language",
+      "B. High Text Machine Language",
+      "C. Hyper Tool Markup Language",
+      "D. Hyper Transfer Markup Language"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "5. CSS stands for?",
+    "options": [
+      "A. Computer Style Sheets",
+      "B. Cascading Style Sheets",
+      "C. Creative Style Sheets",
+      "D. Colorful Style Sheets"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "6. What is the capital of Uttar Pradesh?",
+    "options": [
+      "A. Lucknow",
+      "B. Kanpur",
+      "C. Varanasi",
+      "D. Agra"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "7. What is the capital of Bihar?",
+    "options": [
+      "A. Gaya",
+      "B. Patna",
+      "C. Bhagalpur",
+      "D. Muzaffarpur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "8. What is the capital of Rajasthan?",
+    "options": [
+      "A. Jodhpur",
+      "B. Udaipur",
+      "C. Jaipur",
+      "D. Ajmer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "9. What is the capital of Madhya Pradesh?",
+    "options": [
+      "A. Indore",
+      "B. Gwalior",
+      "C. Jabalpur",
+      "D. Bhopal"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "10. What is the capital of Maharashtra?",
+    "options": [
+      "A. Mumbai",
+      "B. Pune",
+      "C. Nagpur",
+      "D. Nashik"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "11. What is the capital of Gujarat?",
+    "options": [
+      "A. Ahmedabad",
+      "B. Gandhinagar",
+      "C. Surat",
+      "D. Vadodara"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "12. What is the capital of West Bengal?",
+    "options": [
+      "A. Siliguri",
+      "B. Howrah",
+      "C. Kolkata",
+      "D. Durgapur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "13. What is the capital of Tamil Nadu?",
+    "options": [
+      "A. Madurai",
+      "B. Coimbatore",
+      "C. Tiruchirappalli",
+      "D. Chennai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "14. What is the capital of Karnataka?",
+    "options": [
+      "A. Bengaluru",
+      "B. Mysuru",
+      "C. Mangaluru",
+      "D. Hubballi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "15. What is the capital of Kerala?",
+    "options": [
+      "A. Kochi",
+      "B. Thiruvananthapuram",
+      "C. Kozhikode",
+      "D. Thrissur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "16. What is the capital of Punjab?",
+    "options": [
+      "A. Ludhiana",
+      "B. Amritsar",
+      "C. Chandigarh",
+      "D. Jalandhar"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "17. What is the capital of Haryana?",
+    "options": [
+      "A. Gurugram",
+      "B. Faridabad",
+      "C. Panipat",
+      "D. Chandigarh"
+    ],
+    "answer": 3
+  }
+]
